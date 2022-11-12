@@ -1,16 +1,17 @@
 # flutter_rive_integration
 
-A new Flutter project.
+A new Flutter project using Rive Animations.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Please clone this code to your local and start testing the app.
 
-A few resources to get you started if this is your first Flutter project:
+## Acknowledgement
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The .riv was used in the app was originally published [here](https://rive.app/community/2244-7248-animated-login-character/). Thanks to [JcToon](https://rive.app/@JcToon/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To download the Rive package, [click here](https://pub.dev/packages/rive)
+
+## Output
+
+![alt text](https://user-images.githubusercontent.com/14884575/201464587-862567d2-7010-4cef-abdb-f72418a85502.mp4)
