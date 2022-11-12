@@ -14,4 +14,4 @@ To download the Rive package, [click here](https://pub.dev/packages/rive)
 
 ## Output
 
-![alt text](https://user-images.githubusercontent.com/14884575/201464587-862567d2-7010-4cef-abdb-f72418a85502.mp4)
+![flutter_rive_output_gif](https://user-images.githubusercontent.com/14884575/201464937-f2fbd7e8-05d5-48fa-8b0e-176a76ba9089.gif)
